@@ -1,0 +1,19 @@
+[
+  {
+    "savol": "O‘zbekiston poytaxti?",
+    "javoblar": ["Buxoro", "Toshkent", "Samarqand", "Xiva"],
+    "javobi": "1"
+  },
+  {
+    "savol": "2 + 2 = ?",
+    "javoblar": ["3", "4", "5", "6"],
+    "javobi": "1"
+    
+  },
+    {
+    "savol": "Dilovar kim",
+    "javoblar": ["Dugonasi", "Do'stim", "Yaqinim", "Singlim"],
+    "javobi": "0"
+    
+  }
+]
