@@ -9,14 +9,44 @@
     "javoblar": ["3", "4", "5", "6"],
     "javobi": "1"
   },
-    {
+  {
     "savol": "Dilovar kim",
     "javoblar": ["Dugonasi", "Do'stim", "Yaqinim", "Singlim"],
     "javobi": "0"
   },
-      {
-    "savol": "Rayxona kim",
-    "javoblar": ["Dugonasi", "Do'stim", "Yaqinim", "Sevgilim"],
+  {
+    "savol": "Yer sayyorasining sun’iy yo‘ldoshi nima?",
+    "javoblar": ["Oy", "Quyosh", "Mars", "Yulduz"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Eng katta okean qaysi?",
+    "javoblar": ["Atlantika", "Hind", "Tinch", "Shimoliy"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Mustaqillik kuni qachon nishonlanadi?",
+    "javoblar": ["1-iyun", "1-sentabr", "8-dekabr", "9-may"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Kompyuterning asosiy qismi bu...",
+    "javoblar": ["Monitor", "Klaviatura", "Sichqoncha", "Protsessor"],
     "javobi": "3"
+  },
+  {
+    "savol": "Quyosh sharqdan chiqadimi?",
+    "javoblar": ["Yo‘q", "Ba’zida", "Ha", "Bilmayman"],
+    "javobi": "2"
+  },
+  {
+    "savol": "3 * 3 = ?",
+    "javoblar": ["6", "9", "12", "3"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Alifboning birinchi harfi?",
+    "javoblar": ["B", "A", "D", "Z"],
+    "javobi": "1"
   }
 ]
