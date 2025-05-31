@@ -8,18 +8,15 @@
     "savol": "2 + 2 = ?",
     "javoblar": ["3", "4", "5", "6"],
     "javobi": "1"
-    
   },
     {
     "savol": "Dilovar kim",
     "javoblar": ["Dugonasi", "Do'stim", "Yaqinim", "Singlim"],
     "javobi": "0"
-    
   },
       {
     "savol": "Rayxona kim",
     "javoblar": ["Dugonasi", "Do'stim", "Yaqinim", "Sevgilim"],
     "javobi": "3"
-    
-  },
+  }
 ]
