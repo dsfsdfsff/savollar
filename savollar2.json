@@ -1,0 +1,52 @@
+[
+  {
+    "savol": "Eng baland tog‘ cho‘qqisi qaysi?",
+    "javoblar": ["Everest", "Alplar", "Tyan-Shan", "Pamir"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Qaysi hayvon sut bilan boqadi?",
+    "javoblar": ["To‘tiqush", "Ilon", "Sichqon", "Baliq"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Suvning qaynash harorati nechchi daraja?",
+    "javoblar": ["50°C", "90°C", "100°C", "120°C"],
+    "javobi": "2"
+  },
+  {
+    "savol": "O‘zbekistonning eng katta shahri qaysi?",
+    "javoblar": ["Navoiy", "Namangan", "Toshkent", "Andijon"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Yil fasllarini to‘g‘ri tartibda tanlang.",
+    "javoblar": ["Qish, Bahor, Kuz, Yoz", "Bahor, Yoz, Kuz, Qish", "Yoz, Qish, Bahor, Kuz", "Kuz, Yoz, Bahor, Qish"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Kompyuterda matn yozish uchun nima kerak?",
+    "javoblar": ["Sichqoncha", "Monitor", "Klaviatura", "Printer"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Qaysi meva sariq rangda bo‘ladi?",
+    "javoblar": ["Olma", "Anor", "Banan", "Uzum"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Dunyodagi eng katta materik qaysi?",
+    "javoblar": ["Afrika", "Yevropa", "Osiyo", "Avstraliya"],
+    "javobi": "2"
+  },
+  {
+    "savol": "O‘zbek tilida nechta harf bor?",
+    "javoblar": ["29", "30", "31", "32"],
+    "javobi": "3"
+  },
+  {
+    "savol": "Tungi osmonda nima porlaydi?",
+    "javoblar": ["Quyosh", "Yulduzlar", "Bulutlar", "Dengiz"],
+    "javobi": "1"
+  }
+]
